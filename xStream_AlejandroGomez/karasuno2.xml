@@ -1,0 +1,17 @@
+<Miembros>
+  <miembro estado="Activo">
+    <nombre>Keishin Ukai</nombre>
+    <posicion>Entrenador</posicion>
+    <curso>Graduado</curso>
+  </miembro>
+  <miembro estado="Activo">
+    <nombre>Ittetsu Takeda</nombre>
+    <posicion>Consejero Escolar</posicion>
+    <curso>Profesor</curso>
+  </miembro>
+  <miembro estado="Activo">
+    <nombre>Hitoka Yachi</nombre>
+    <posicion>Manager</posicion>
+    <curso>Primero</curso>
+  </miembro>
+</Miembros>
